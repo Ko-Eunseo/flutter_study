@@ -1,6 +1,7 @@
-# webtoons
+# Currency App UI test
 
 A new Flutter project.
+노마드코더 #3 부분 강의 공부.
 
 ## Getting Started
 
